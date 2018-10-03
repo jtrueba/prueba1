@@ -9,4 +9,9 @@ public class Ejemplo {
 	public int suma(int i, int j) {
 		return i+j;
 	}
+	
+	public int resta(int i, int j) {
+		return i-j;
+	}
+	
 }
